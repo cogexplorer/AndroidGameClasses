@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.*;
 
-public class MainActivity extends Activity
+public class HelloWorld extends Activity
 {
     /** Called when the activity is first created. */
     @Override
